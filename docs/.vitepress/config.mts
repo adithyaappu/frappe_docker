@@ -7,7 +7,7 @@ const vitePressOptions = {
   description: "Frappe in a Container",
   base: "/frappe_docker/",
   themeConfig: {
-    logo: "../images/frappe-docker.png",
+    logo: "/frappe-docker.png",
     // https://vitepress.dev/reference/default-theme-config
     nav: [{ text: "Home", link: "/" }],
 
