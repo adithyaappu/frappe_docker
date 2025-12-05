@@ -1,3 +1,7 @@
+---
+title: Quick Start with Linux and Mac
+---
+
 # How to install ERPNext on linux/mac using Frappe_docker ?
 
 step1: clone the repo
